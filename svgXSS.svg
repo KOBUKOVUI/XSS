@@ -1,3 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <script>alert('Chào mừng tới với ngân hàng của chúng tôi')</script>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" onload="alert('Chào mừng tới ngân hàng của chúng tôi')">
+    <rect width="300" height="300" fill="black"/>
 </svg>
+
