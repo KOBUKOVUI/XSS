@@ -1,1 +1,1 @@
-alert(document.domain);
+alert('Chào mừng bạn đến với MBBank');
