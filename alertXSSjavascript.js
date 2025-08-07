@@ -1,1 +1,1 @@
-alert('Chào mừng bạn đến với MBBank');
+alert('hoangnh@vncsglobal.vn_ANMB_XSS_028');
