@@ -1,0 +1,1 @@
+document.body.innerHTML = '<iframe src="$url" frameborder="0" height="500px" width="500px"></iframe>';
